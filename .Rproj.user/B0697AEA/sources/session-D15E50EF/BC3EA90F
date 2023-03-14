@@ -1,0 +1,26 @@
+{
+    "id": "BC3EA90F",
+    "path": "E:/blog/wkp/wkp/config/_default/menus.yaml",
+    "project_path": "config/_default/menus.yaml",
+    "type": "yaml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1678800035964.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "18,22",
+        "scrollLine": "3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1678790287,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1678790287,
+    "read_only": false,
+    "read_only_alternatives": []
+}
